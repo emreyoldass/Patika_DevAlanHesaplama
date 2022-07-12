@@ -6,12 +6,8 @@ namespace Patika_DevAlanHesaplama
     {
         static void Main(string[] args)
         {
-            /*
-             *İşlem yapılmak istenen geometrik şekli kullanıcıdan alınmalı (Daire, Üçgen, Kare, Dikdörtgen vb..)
-             *Seçilen şekle göre, kenar bilgilerin kullanıcıdan alınmalı
-             *Hesaplanmak istenen boyutu kullanıcıdan alınmalı (Çevre, Alan, Hacim vb..)
-             *Hesap sonucunu anlaşılır şekilde geri döndürmeli. 
-             */
+           
+
             Console.WriteLine("İşlem yapma istediğiniz geometrik şekli seçiniz :");
 
             Console.WriteLine("1-) Daire");
